@@ -22,8 +22,8 @@ You can try out the app here: https://tea-oss.netlify.app
 
 To run the app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/cracksteady/incenteavized.git`
-2. Navigate to the project directory: `cd incenteavized`
+1. Clone the repository: `git clone https://github.com/cracksteady/tea-oss.git`
+2. Navigate to the project directory: `cd tea-oss-main`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. The app should now be accessible at `[http://localhost:5173](http://localhost:5173)`
