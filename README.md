@@ -1,6 +1,6 @@
 # Incenteavized (Buy Me a Tea) 🍵
 
-The **Buy Me a Tea Web3** decentralized application enables visitors to send you EVM compatible Tokens as tips and leave kind messages. It's constructed using Alchemy, Hardhat, Ethers.js, and Ethereum Goerli, with a ViteJS (ReactJS) frontend deployed on Netlify.
+The **Buy Me a Tea Web3** decentralized application enables visitors to send you (Goerli) ETH as tips and leave kind messages. It's constructed using Alchemy, Hardhat, Ethers.js, and Ethereum Goerli, with a ViteJS (ReactJS) frontend deployed on Netlify.
 
 You can try out the app here: https://incenteavized.netlify.app
 
@@ -11,7 +11,7 @@ You can try out the app here: https://incenteavized.netlify.app
 
 ## Features
 
-- Visitors can send you (fake) ETH as tips and leave friendly messages.
+- Visitors can send you (Goerli) ETH as tips and leave friendly messages.
 - Transactions are processed on the Ethereum Goerli test network.
 - The app leverages Alchemy to communicate with the Ethereum network.
 - Smart contracts are written in Solidity and managed with Hardhat.
