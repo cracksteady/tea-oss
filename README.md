@@ -2,7 +2,10 @@
 
 The **Buy Me a Tea Web3** decentralized application enables visitors to send you EVM compatible Tokens as tips and leave kind messages. It's constructed using Alchemy, Hardhat, Ethers.js, and Ethereum Goerli, with a ViteJS (ReactJS) frontend deployed on Netlify.
 
-You can explore the app here: [Buy Me a Coffee Web3](https://buy-muneeb-a-coffee-web3.netlify.app/).
+
+![image](https://github.com/cracksteady/incenteavized/assets/154499836/609399c7-3449-4ffb-bd6c-fd433bbfd587)
+
+
 
 ## Features
 
