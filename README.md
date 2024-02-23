@@ -25,4 +25,8 @@ To run the app locally, follow these steps:
 2. Navigate to the project directory: `cd incenteavized`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
-5. The app should now be accessible at [http://localhost:5173](http://localhost:5173).
+5. The app should now be accessible at `[http://localhost:5173](http://localhost:5173)`
+
+## Installation
+
+Still under development
