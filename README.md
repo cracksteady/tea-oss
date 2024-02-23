@@ -1,4 +1,4 @@
-# Incenteavized [![image](https://camo.githubusercontent.com/f69a5ceef3aa29492abf1a72cb84ad969894b665960721f77b3d0a526dfc02c7/687474703a2f2f696d672e736869656c64732e696f2f6e706d2f762f76696e63656e742e7376673f7374796c653d666c6174)](https://www.npmjs.com/package/incenteavized)
+# Incenteavized [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
 
 
 The **Buy Me a Tea Web3** decentralized application enables visitors to send you (Goerli) ETH as tips and leave kind messages. It's constructed using Alchemy, Hardhat, Ethers.js, and Ethereum Goerli, with a ViteJS (ReactJS) frontend deployed on Netlify.
