@@ -27,6 +27,6 @@ To run the app locally, follow these steps:
 4. Start the development server: `npm run dev`
 5. The app should now be accessible at `[http://localhost:5173](http://localhost:5173)`
 
-## Installation
+## Note
 
 Still under development
