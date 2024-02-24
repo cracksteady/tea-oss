@@ -1,7 +1,7 @@
 {
-  "name": "incenteavized",
+  "name": "tea-oss",
   "private": false,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "commonjs",
   "scripts": {
     "dev": "vite --host",
@@ -34,5 +34,20 @@
     "solidity-coverage": "^0.8.0",
     "typechain": "^8.1.0",
     "vite": "^4.1.0"
-  }
+  },
+  "description": "The **Buy Me a Tea Web3** decentralized application enables visitors to send you (Goerli) ETH as tips and leave kind messages. It's constructed using Alchemy, Hardhat, Ethers.js, and Ethereum Goerli, with a ViteJS (ReactJS) frontend deployed on Netlify.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cracksteady/tea-oss.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "cracksteady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cracksteady/tea-oss"
+  },
+  "homepage": "https://github.com/cracksteady/tea-oss#readme"
 }
