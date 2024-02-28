@@ -39,7 +39,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cracksteady/tea-oss.git"
+    "url": "https://github.com/cracksteady/tea-oss.git"
   },
   "keywords": [
     "tea"
