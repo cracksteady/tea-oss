@@ -1,4 +1,4 @@
-# Tea-OSS 🍵 [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm) [![Netlify Status](https://api.netlify.com/api/v1/badges/57edc368-ed6c-4f26-8359-f409f6365ab5/deploy-status)](https://app.netlify.com/sites/tea-oss/deploys)
+# Tea-OSS 🍵 [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm) [![Netlify Status](https://api.netlify.com/api/v1/badges/57edc368-ed6c-4f26-8359-f409f6365ab5/deploy-status)](https://app.netlify.com/sites/oss-tea-test/deploys)
 
 
 The **Buy Me a Tea Web3** decentralized application enables visitors to send you (Goerli) ETH as tips and leave kind messages. It's constructed using Alchemy, Hardhat, Ethers.js, and Ethereum Goerli, with a ViteJS (ReactJS) frontend deployed on Netlify.
