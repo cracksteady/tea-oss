@@ -5,6 +5,7 @@ The **Buy Me a Tea Web3** decentralized application enables visitors to send you
 
 You can try out the app here: https://tea-oss.netlify.app
 
+![image](https://github.com/cracksteady/tea-oss/assets/154499836/82dbcfd7-1e7c-45a0-a669-070f32c70489)
 
 
 
